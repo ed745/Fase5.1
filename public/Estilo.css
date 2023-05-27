@@ -1,0 +1,56 @@
+
+
+
+.menucontainer{
+
+    display: grid;
+    grid-template-areas: 
+    · A A A A·
+    · B B B B·
+    · C C C C·
+    ;
+
+}
+}
+
+
+*{
+
+
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+ list-style: none;
+
+}
+
+.container {
+
+    max-width: 1200px;
+    max-resolution: 0 auto;
+
+}
+
+.navbarh{
+
+
+    
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.navbarh{
+
+    background-color: #FFF5E4;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    justify-content: center;
+
+}
